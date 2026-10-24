@@ -212,6 +212,7 @@ Customer-Behavior-Dashboard/
 ## 📸 Dashboard Preview
 
 ![Customer Behavior Dashboard](https://github.com/ayushrivastava195/CustomerBehaviourReport/blob/main/Snap_CustomerBehavior.png)
+Link - Snap_CustomerBehavior.png
 
 *The dashboard presents customer KPIs, category-level sales and revenue, subscription status, and age-group comparisons in a single interactive interface.*
 
